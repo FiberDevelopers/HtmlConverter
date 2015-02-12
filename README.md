@@ -3,7 +3,7 @@ This program allows you to create custom signs to complete complicated divs
 
 # HtmlConverter
 This program allows you to create custom signs to complete complicated divs
-
+```html
 Basic syntax for your mid file:
 * <- Required to start the autocompletion
 ! <- Special character to call later in the program
@@ -13,6 +13,7 @@ Basic syntax for your mid file:
   </div>
 </div>
 * <- Use this to end
+```
 
 From the actual application:
 ! Anything you want here will go inside the code you wrote earlier
