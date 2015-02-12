@@ -1,4 +1,4 @@
-# HtmlConverter
+# Html Converter
 This program allows you to create custom signs to complete complicated divs
 ```html
 Basic syntax for your mid file:
